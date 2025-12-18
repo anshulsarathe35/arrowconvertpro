@@ -961,7 +961,7 @@ export default function PdfToJpg() {
               onClick={selectOutputFolder}
               className={`w-full px-4 py-2 rounded-md text-sm font-medium ${
                 dirHandle
-                  ? "bg-emerald-600 text-white"
+                  ? "bg-indigo-600 text-white"
                   : "bg-slate-900 text-white hover:bg-slate-800"
               }`}
             >
